@@ -3,23 +3,23 @@
 
 <p align=center>
   <div align=center>
-    <a href="https://github.com/paez-dev" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=paez-dev&theme=dracula&border=61dafb&hide_border=true" alt="ivansaul" />
+    <a href="https://github.com/paezdev" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=paezdev&theme=dracula&border=61dafb&hide_border=true" alt="ivansaul" />
     </a>
-    <a href="https://github.com/paez-dev" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=paez-dev&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
+    <a href="https://github.com/paezdev" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=paezdev&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/paez-dev" title="Go to Source">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paez-dev&theme=dracula&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <a href="https://github.com/paezdev" title="Go to Source">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paezdev&theme=dracula&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
   <div align=center>
-    <a href="https://github.com/paez-dev">
-      <img src="https://visitcount.itsvg.in/api?id=paez-dev&label=Profile%20Views&color=0&icon=6&pretty=true" />
+    <a href="https://github.com/paezdev">
+      <img src="https://visitcount.itsvg.in/api?id=paezdev&label=Profile%20Views&color=0&icon=6&pretty=true" />
     </a>
   </div>
 </p>
@@ -48,8 +48,8 @@
   <a href="https://www.reddit.com/user/paezdev" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paezdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:paezdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://gitlab.com/paez-dev" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
- 	<a href="https://stackoverflow.com/users/22141526/paez-dev" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
+  <a href="https://gitlab.com/paezdev" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
+ 	<a href="https://stackoverflow.com/users/22141526/paezdev" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
    
   ![Snake animation](https://github.com/ivansaul/ivansaul/blob/output/github-contribution-grid-snake.svg)
   <!--
