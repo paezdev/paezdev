@@ -4,7 +4,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/paezdev" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=paezdev&theme=dracula&border=61dafb&hide_border=true" alt="ivansaul" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=paezdev&theme=dracula&border=61dafb&hide_border=true" alt="paezdev" />
     </a>
     <a href="https://github.com/paezdev" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=paezdev&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
