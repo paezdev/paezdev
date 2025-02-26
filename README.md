@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0084E7&size=25&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Jean+Páez!;Welcome+to+my+GitHub+profile!;I+love+coding+and+learning+new+things!;Let's+build+something+amazing+together!+🚀" alt="Typing SVG" />
 </p>
@@ -84,4 +83,3 @@ class AboutMe:
 ### 🐍 Animación de contribuciones
 
 ![Snake animation](https://github.com/paezdev/paezdev/blob/output/github-contribution-grid-snake.svg)
-```
