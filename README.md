@@ -1,10 +1,29 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0084E7&size=23&lines=Hi+there+👋)](https://git.io/typing-svg)
+
+```python
+class AboutMe():
+  # I'm a passionate self-taught programmer.
+  # I’m currently learning SwiftUI and Flutter.
+    
+  def __init__(self):
+    self.name = "Jean Páez"
+    self.username = "paezdev"
+    self.location = "Caucasia, Colombia"
+    self.portfolio = "https://paezdev.github.io"
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = AboutMe()
+```
+
 ##
 
 <p align=center>
   <div align=center>
     <a href="https://github.com/paezdev" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=paezdev&theme=dracula&border=61dafb&hide_border=true" alt="ivansaul" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=paezdev&theme=dracula&border=61dafb&hide_border=true" alt="paezdev" />
     </a>
     <a href="https://github.com/paezdev" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=paezdev&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
@@ -17,11 +36,12 @@
     </a>
   </div>
   <br>
-  <div align=center>
-    <a href="https://github.com/paezdev">
-      <img src="https://visitcount.itsvg.in/api?id=paezdev&label=Profile%20Views&color=0&icon=6&pretty=true" />
-    </a>
+  <div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=paezdev&label=Profile%20Views&color=0&icon=6&pretty=false" />
+</div>
   </div>
+  <br>
+
 </p>
 
 <div style="display: inline_block"><br>
