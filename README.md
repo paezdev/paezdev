@@ -20,28 +20,27 @@ if __name__ == '__main__':
 
 ##
 
-<p align=center>
-  <div align=center>
+<p align="center">
+  <div align="center">
     <a href="https://github.com/paezdev" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=paezdev&theme=dracula&border=61dafb&hide_border=true" alt="paezdev" />
+      <img align="left" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=paezdev&theme=dracula&border=61dafb&hide_border=true" alt="paezdev" />
     </a>
     <a href="https://github.com/paezdev" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=paezdev&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
+      <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=paezdev&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br>
-  <div align=center>
+  <div align="center">
     <a href="https://github.com/paezdev" title="Go to Source">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paezdev&theme=dracula&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paezdev&theme=dracula&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
   <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=paezdev&label=Profile%20Views&color=0&icon=6&pretty=false" />
-</div>
+    <a href="https://github.com/paezdev">
+      <img src="https://komarev.com/ghpvc/?username=paezdev&style=flat-square&color=blue" alt="Profile Views" />
+    </a>
   </div>
-  <br>
-
 </p>
 
 <div style="display: inline_block"><br>
