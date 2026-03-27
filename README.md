@@ -71,9 +71,7 @@ if __name__ == '__main__':
  	<a href="https://stackoverflow.com/users/22141526/paezdev" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
    
   ![Snake animation](https://raw.githubusercontent.com/paezdev/paezdev/output/github-contribution-grid-snake.svg)
-  <!--
-  <img src="https://activity-graph.herokuapp.com/graph?username=paezdev&theme=react-dark&bg_color=20232a&hide_border=true" width="80%"/>
-  -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paezdev&theme=dracula&hide_border=true" width="80%"/>
 </div>
 
 
