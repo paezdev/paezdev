@@ -70,7 +70,7 @@ if __name__ == '__main__':
   <a href="https://gitlab.com/paezdev" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
  	<a href="https://stackoverflow.com/users/22141526/paezdev" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
    
-  ![Snake animation](https://raw.githubusercontent.com/paezdev/paezdev/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/paezdev/paezdev/blob/output/github-contribution-grid-snake.svg)
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=paezdev&theme=dracula&hide_border=true" width="80%"/>
 </div>
 
