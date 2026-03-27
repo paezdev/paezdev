@@ -34,6 +34,10 @@ if __name__ == '__main__':
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=paezdev&theme=flat&no-frame=false&no-bg=true&margin-w=4">
     <img src="https://github-profile-trophy.vercel.app/?username=paezdev&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
   </picture>
+  
+  <br>
+
+  <img src="https://raw.githubusercontent.com/paezdev/paezdev/output/achievements.svg" alt="Official Achievements" />
 </div>
 
 ## 📊 Statistics
