@@ -23,7 +23,7 @@ if __name__ == '__main__':
 <p align="center">
   <div align="center">
     <a href="https://github.com/paezdev" title="Go to Source">
-      <img align="left" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=paezdev&theme=dracula&border=61dafb&hide_border=true" alt="paezdev" />
+      <img align="left" width="390" src="https://streak-stats.demolab.com/?user=paezdev&theme=dracula&border=61dafb&hide_border=true" alt="paezdev" />
     </a>
     <a href="https://github.com/paezdev" title="Go to Source">
       <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=paezdev&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
@@ -70,7 +70,7 @@ if __name__ == '__main__':
   <a href="https://gitlab.com/paezdev" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
  	<a href="https://stackoverflow.com/users/22141526/paezdev" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
    
-  ![Snake animation](https://github.com/ivansaul/ivansaul/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/paezdev/paezdev/output/github-contribution-grid-snake.svg)
   <!--
   <img src="https://activity-graph.herokuapp.com/graph?username=paezdev&theme=react-dark&bg_color=20232a&hide_border=true" width="80%"/>
   -->
