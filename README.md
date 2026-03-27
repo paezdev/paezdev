@@ -82,11 +82,6 @@ if __name__ == '__main__':
   <img src="https://skillicons.dev/icons?i=cpp,c,py,html,js,css,firebase,flutter,mongodb,git,linux,ai,ps&perline=7&theme=dark" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paezdev&theme=dracula&hide_border=true" width="80%" alt="Activity Graph" />
-</div>
 
 
 ## 🌐 Connect with Me
