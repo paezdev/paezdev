@@ -2,8 +2,8 @@
 
 ```python
 class AboutMe():
-  # I'm a passionate self-taught programmer.
-  # Currently diving deep into SwiftUI and Flutter.
+  # I'm a Software and Data Engineer graduate.
+  # Passionate about building scalable software and data-driven solutions.
 
   def __init__(self):
     self.name = "Jean Páez"
@@ -11,11 +11,12 @@ class AboutMe():
     self.location = "Caucasia, Colombia"
     self.portfolio = "https://paezdev.github.io"
     self.interests = [
-      "SwiftUI",
-      "Flutter",
-      "Clean Code",
-      "Python",
-      "UX Design",
+      "Software Engineering",
+      "Data Science & Engineering",
+      "Flutter (Mobile Dev)",
+      "Python Dev",
+      "Clean Code & Architecture",
+      "Artificial Intelligence",
     ]
   
   def __str__(self):
@@ -79,7 +80,7 @@ if __name__ == '__main__':
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,py,html,js,css,firebase,flutter,mongodb,git,linux,ai,ps&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,py,html,js,css,firebase,flutter,mongodb,postgres,mysql,git,linux,docker,sklearn,pandas,tensorflow&perline=9&theme=dark" />
 </div>
 
 
