@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0084E7&size=23&lines=Hi+there+👋;I'm+Jean+Páez+💻;Self-taught+Programmer+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0084E7&size=23&lines=Hi+there+👋;I'm+Jean+Páez+💻;Self-taught+Programmer+🚀;Building+premium+solutions+✨)](https://git.io/typing-svg)
 
 ```python
 class AboutMe():
@@ -25,9 +25,17 @@ if __name__ == '__main__':
     me = AboutMe()
 ```
 
-##
+## 🏆 Achievements
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=paezdev&theme=dracula&no-frame=false&no-bg=true&margin-w=4">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=paezdev&theme=flat&no-frame=false&no-bg=true&margin-w=4">
+    <img src="https://github-profile-trophy.vercel.app/?username=paezdev&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+  </picture>
+</div>
+
+## 📊 Statistics
   <picture>
     <source srcset="https://raw.githubusercontent.com/paezdev/paezdev/output/stats-dark.svg" media="(prefers-color-scheme: dark)" />
     <source srcset="https://raw.githubusercontent.com/paezdev/paezdev/output/stats-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
@@ -70,22 +78,16 @@ if __name__ == '__main__':
 
 ## 🛠 Tech Stack
 
-<div style="display: inline-block"><br>
-  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
-  <img align="right" alt="Pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/RPDLDSg.png">
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,py,html,js,css,firebase,flutter,mongodb,git,linux,ai,ps&perline=7&theme=dark" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paezdev&theme=dracula&hide_border=true" width="80%" alt="Activity Graph" />
+</div>
+
 
 ## 🌐 Connect with Me
 
