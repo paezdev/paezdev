@@ -37,7 +37,12 @@ if __name__ == '__main__':
   
   <br>
 
-  <img src="https://raw.githubusercontent.com/paezdev/paezdev/output/achievements.svg" alt="Official Achievements" />
+  <!-- Official GitHub Achievements Badges -->
+  <a href="https://github.com/paezdev?tab=achievements">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" height="80" alt="Pull Shark" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" height="80" alt="YOLO" />
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" height="80" alt="Quickdraw" />
+  </a>
 </div>
 
 ## 📊 Statistics
