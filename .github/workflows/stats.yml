@@ -63,13 +63,20 @@ jobs:
       - name: Generate Achievements
         uses: lowlighter/metrics@latest
         with:
-          filename: dist/achievements.svg
+          filename: achievements.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_achievements: yes
-          plugin_achievements_threshold: C
+          plugin_achievements_only: >-
+            polyglot, starstruck, pull-shark, quickdraw, yolo, heart-on-your-sleeve, 
+            galaxy-brain, arctic-code-vault, mars-2020, public-sponsor, 
+            verified-sponsor, maintainer, developer
+          plugin_achievements_threshold: X
           plugin_achievements_display: compact
           output_action: none
+
+      - name: Sync Achievements to dist
+        run: mv achievements.svg dist/achievements.svg || true
 
       - name: Push Changes
         uses: crazy-max/ghaction-github-pages@v2.1.3
