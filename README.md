@@ -20,7 +20,7 @@ if __name__ == '__main__':
 
 ##
 
-<p align="center">
+<div align="center">
   <div align="center">
     <a href="https://github.com/paezdev" title="Go to Source">
       <img align="left" width="390" src="https://streak-stats.demolab.com/?user=paezdev&theme=dracula&border=61dafb&hide_border=true" alt="paezdev" />
@@ -41,7 +41,7 @@ if __name__ == '__main__':
       <img src="https://komarev.com/ghpvc/?username=paezdev&style=flat-square&color=blue" alt="Profile Views" />
     </a>
   </div>
-</p>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
